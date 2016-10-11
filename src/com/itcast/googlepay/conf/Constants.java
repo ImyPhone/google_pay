@@ -7,7 +7,7 @@ public class Constants {
 	public static final int PAGESIZE = 20;	
 	public static final int	PROTOCOLTIMEOUT	= 5 * 60 * 1000;		// 5∑÷÷”
 	public static final class URLS {
-		public static final String	BASEURL			= "http://192.168.50.100:8080/GooglePlayServer/";
+		public static final String	BASEURL			= "http://192.168.1.16:8080/GooglePlayServer/";
 		// http://localhost:8080/GooglePlayServer/image?name=
 		public static final String	IMAGEBASEURL	= BASEURL + "image?name=";
 		
